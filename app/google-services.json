@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990161717736",
+    "project_id": "carvinocr",
+    "storage_bucket": "carvinocr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990161717736:android:6224e073c275a45b22fc5d",
+        "android_client_info": {
+          "package_name": "com.ds.carvinocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990161717736-93829fqoijuj29sbgmsgcjkpd4u8ji8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2cJBZQQvxmvV72btgLIRiw2JSvZh_Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990161717736-93829fqoijuj29sbgmsgcjkpd4u8ji8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
